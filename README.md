@@ -1,16 +1,46 @@
-## Hi there 👋
+<div align="center">
+  <img height="150" src="https://i.imgur.com/cTpQGoY.png"  />
+</div>
 
-<!--
-**Peps2ne/peps2ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://www.youtube.com/@peps2ne" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/peps2ne" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.twitch.tv/peps2ne" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  </a>
+  <a href="https://discord.com/users/1091441605430493185" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="awox0509@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/razget-benz-067553305/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <h3>🎵 My Music</h3>
+  <p>🎤 Also a Music Artist on Spotify!</p>
+  <a href="https://open.spotify.com/intl-tr/artist/3bnRxwldhAOdAej7t8wAoO?si=07d70090c39549e3" target="_blank">
+    <img src="https://img.shields.io/badge/Listen_on_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Artist" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/Genre-Electronic-FF6B6B?style=flat-square" alt="Genre" />
+  <img src="https://img.shields.io/badge/Genre-Pop-4ECDC4?style=flat-square" alt="Genre" />
+  <img src="https://img.shields.io/badge/Genre-Hip--Hop-FFD93D?style=flat-square" alt="Genre" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
