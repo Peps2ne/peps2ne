@@ -13,14 +13,8 @@
 
 <!-- ===================== SOCIALS ===================== -->
 <div align="center">
-  <a href="https://www.youtube.com/@peps2ne" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
   <a href="https://www.instagram.com/peps2ne" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.twitch.tv/peps2ne" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
   <a href="https://discord.com/users/1091441605430493185" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
@@ -38,10 +32,10 @@
 ```js
 const peps2ne = {
   roles:      ["Content Creator", "Music Artist", "Developer"],
-  platforms:  ["YouTube", "Twitch", "Instagram", "Spotify"],
-  music:      ["Electronic", "Pop", "Hip-Hop"],
-  currently:  "Building cool stuff & dropping new tracks 🔥",
-  contact:    "operations@pepsreal.cc",
+  platforms:  ["Instagram", "Spotify"],
+  music:      ["Leak"],
+  currently:  "Doin' Nothin",
+  contact:    "support@onlyhs.org",
 };
 ```
 
@@ -50,7 +44,7 @@ const peps2ne = {
 
 <div align="center">
   <p>🎤 <b>Also a Music Artist on Spotify!</b></p>
-  <a href="https://open.spotify.com/artist/3bnRxwldhAOdAej7t8wAoO" target="_blank">
+  <a href="https://sptfy.bio/peps2ne" target="_blank">
     <img src="https://img.shields.io/badge/Listen_on_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify" />
   </a>
   <br/><br/>
