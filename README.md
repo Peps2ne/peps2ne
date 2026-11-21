@@ -6,8 +6,8 @@
 
   <br/>
 
-  <a href="https://github.com/KULLANICI_ADI">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1ED760&center=true&vCenter=true&width=520&lines=Hey%2C+ben+peps2ne+%F0%9F%91%8B;Content+Creator+%F0%9F%8E%A5;Music+Artist+%F0%9F%8E%A4;Developer+%F0%9F%92%BB" alt="Typing SVG" />
+  <a href="https://github.com/peps2ne">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1ED760&center=true&vCenter=true&width=520&lines=Hello%2C+I+am+peps2ne+%F0%9F%91%8B;Content+Creator+%F0%9F%8E%A5;Music+Artist+%F0%9F%8E%A4;Developer+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </div>
 
@@ -64,7 +64,7 @@ const peps2ne = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=peps2neI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=peps2ne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peps2ne&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=peps2ne&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
