@@ -64,16 +64,16 @@ const peps2ne = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=peps2neI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peps2ne&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=KULLANICI_ADI&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=peps2ne&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KULLANICI_ADI&label=Profile%20Views&color=9146FF&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=peps2ne&label=Profile%20Views&color=9146FF&style=flat-square" alt="Profile views" />
 </div>
 
 <!-- ===================== FOOTER ===================== -->
